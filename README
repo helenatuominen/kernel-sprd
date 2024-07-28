@@ -1,3 +1,21 @@
+-----------------------------------------------------------
+Motorola XT2227-3 (Motorola Moto E32 XT2227-3 is APAC)
+motorola; moto e32; hawaii; ums9230_4h10; 
+ums9230_4h10 	AKA Tiger_T606_64 AKA T606/T612/T616 	LPDDR4X 
+FDL1 0x65000800 	SPL 0x9efffe00 	eMMC/UFS
+./arch/arm64/boot/dts/sprd/ums9230.dtsi
+Product Brand : motorola
+Product Manufacturer : motorola
+Product Model : moto e32
+Product Name : hawaii
+Product Device : hawaii
+Product Board : ums9230_4h10
+Hardware version PVT ?
+Board Platform : ums9230
+-----------------------------------------------------------
+
+
+
 Linux kernel
 ============
 
